@@ -1,1 +1,17 @@
-alert("this works!");
+document.addEventListener("DOMContentLoaded", function() {
+    alert("It works!");
+
+
+
+
+
+
+
+
+
+    
+  });
+
+
+
+
