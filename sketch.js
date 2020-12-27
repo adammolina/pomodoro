@@ -3,5 +3,19 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(0);
+
+  let hr = hour();
+  let min = minute();
+  let sec = second();
+  let millis = millis();
+
+  fill(255);
+  noStroke();
+  text(hr + ':' + min + ":" + sec + ":" + millis, 10, 200);
+
+
+
+
+
 }
