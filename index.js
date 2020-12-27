@@ -10,6 +10,7 @@ document.querySelector("button").addEventListener("click", function() {
     let timeTwo = startingMinutesTwo * 60;
     const countDownTwo = document.getElementById('timerTwo');
 
+    
 //First Timer
     setInterval(updateCountdown, 1000);//runs the code every second
     function updateCountdown() {
