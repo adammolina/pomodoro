@@ -1,7 +1,23 @@
 body {
-  background-color: black;
+  background-color: #726d73;
 }
 
 h2 {
+  color: white;
+}
+
+.active {
+  background-color: white;
+}
+
+.activeFont {
+  color: black;
+}
+
+.nextUp {
+  background-color: black;
+}
+
+.nextUpFont {
   color: white;
 }
