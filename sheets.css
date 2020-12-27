@@ -10,14 +10,21 @@ h2 {
 
 .active {
   background-color: white;
+  height: 50vh;
 }
 
 .activeFont {
   color: black;
 }
 
+.btn {
+  position: absolute;
+  margin-top: -1.5rem;
+}
+
 .nextUp {
   background-color: black;
+  height: 50vh;
 }
 
 .nextUpFont {
